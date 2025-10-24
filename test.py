@@ -7,6 +7,8 @@ import os
 
 # Я добавил эту строку, для новой версии
 # Это я добавил в ветке dev_danila
+# Это я добавил ещё в ветке dev_danila
+
 
 # Database configuration
 DATABASE_URL = os.getenv("DATABASE_URL", "postgresql://postgres:postgres@db:5432/testdb")
